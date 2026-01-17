@@ -1,22 +1,19 @@
 {
   "hashAlgorithm": "blake2b-256",
-  "authors": [
-    {
-      "name": "BTCnADA",
-      "witness": {
-        "witnessAlgorithm": "ed25519",
-        "publicKey": ""
-      }
-    }
-  ],
+  "authors": [],
   "body": {
-    "name": "BTCnADA | Taiwan DRep",
+    "givenName": "BTCnADA | Taiwan DRep",
     "bio": "關注 Cardano 治理與生態建設，支持 USDT/USDC 等穩定幣採用、BTC DeFi 互通，以及能提升安全性、可用性與成長性的基礎建設。",
     "motivations": "推動高品質提案審查與資金使用透明化，鼓勵可衡量、可交付、可持續的公共建設。",
     "objectives": "優先支持：(1) 核心基礎設施與安全工具、(2) 穩定幣與 DeFi 生態、(3) BTC DeFi/互通方案、(4) 治理工具與社群教育、(5) 台灣在地社群與開發者成長。",
     "policy": "投票原則：透明（預算與里程碑公開）、可交付（可驗收成果）、可持續（維運與延伸性）、安全（審計/風控）、社群價值（公共財）。",
     "references": [
-      { "label": "X", "uri": "https://x.com/BTCnADA" }
-    ]
+      {
+        "@type": "Link",
+        "label": "X",
+        "uri": "https://x.com/BTCnADA"
+      }
+    ],
+    "doNotList": false
   }
 }
