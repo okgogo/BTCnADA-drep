@@ -1,2 +1,2 @@
 # BTCnADA-drep
-BTCnADA- Cardano drep
+BTCnADA- Taiwan drep
